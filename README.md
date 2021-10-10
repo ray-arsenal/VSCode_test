@@ -1,2 +1,2 @@
 # Vscode_test
-这是一个初学git的测试
+这是一个使用VSCode提交代码的示例
